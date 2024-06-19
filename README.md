@@ -11,4 +11,4 @@ I intend for this project to help me learn some of the HTML foundations so I can
 
 # What I have learned:
 
-(to be created)
+I learned how to effectively create links. I also learned how to make an ordered list and an unordered list. I learned about paragraphs and headings. I will probably revisit this project.
