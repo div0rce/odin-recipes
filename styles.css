@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	outline: solid red 2px;
+}
+
+header {
+	font-family: "Courier New", Courier, monospace;
+	max-width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	color: white;
+}
+
+h1.center {
+	top: 30%;
+}
+
+.center {
+	position: absolute;
+	top: 43%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#banner {
+	width: 100%;
+}
